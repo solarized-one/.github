@@ -2,6 +2,8 @@
 
 ![logo](https://github.com/user-attachments/assets/c27b152e-5d0f-4c08-b452-5db09bdd508e)
 
+![solarized-one](https://github.com/user-attachments/assets/5988b031-ddde-44dc-8948-0fb98b5c2879)
+
 https://marketplace.visualstudio.com/items?itemName=SolarizedOne.solarized-one
 
 Solarized was meticulously designed by Ethan Schoonover. The colors are mathematically analyzed and the contrast is easy on the eyes. But the greens did not match the rest of most OS. The dark green/blue is from Ethan's fear of deep bodies of water (Thalassophobia).
