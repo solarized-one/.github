@@ -6,6 +6,8 @@
 
 https://marketplace.visualstudio.com/items?itemName=SolarizedOne.solarized-one
 
+https://open-vsx.org/extension/SolarizedOne/solarized-one
+
 Solarized was meticulously designed by Ethan Schoonover. The colors are mathematically analyzed and the contrast is easy on the eyes. But the greens did not match the rest of most OS. The dark green/blue is from Ethan's fear of deep bodies of water (Thalassophobia).
 
 Atom One Dark stemmed from the once popular Atom text editor by Github. A perfectly neutral theme it solves light bleeding in LCD monitors while making the text readable. Even though it was a beautiful theme, it did not match the mathmatical riguros of Solarized Dark.
